@@ -18,12 +18,14 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Содержание</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#о-проекте">О проекте</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#идея">Идея</a></li>
+        <li><a href="#roadmap">Цель</a></li>
+        <li><a href="#используемые-ресурсы">Используемые ресурсы</a></li>
       </ul>
     </li>
     <li>
@@ -98,11 +100,11 @@
 ### Подсказки
 <br />
   <a>
-    <img src="Desert2.png" alt="Desert" width="540" height="107">
+    <img src="Desert2.png" alt="Desert" width="675" height="134">
   </a>
 
 
-### Читы
+### Cheats
 
 1. God mode
    ```sh
@@ -117,7 +119,7 @@
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Задачи
 
 - [ ] Реализованы основные механики передвижения
     - [ ] Ходьба
@@ -144,59 +146,16 @@
 
 <!-- CONTRIBUTORS -->
 ## Участники
-
-<a href="https://github.com/lienkko/GhostHouse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lienkko/GhostHouse" />
-</a>
+[![Conributors][contibutors-logo]](https://github.com/lienkko/GhostHouse/graphs/contributors)
 
 <p align="right">(<a href="#readme-top">К началу</a>)</p>
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lienkko/GhostHouse.svg?style=for-the-badge
-[issues-url]: https://github.com/lienkko/GhostHouse/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [logo-screenshot]: Logo4.png
 [Unity]: https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoSize=auto
 [unity-url]: https://unity.com
 [CSharp]: https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoSize=auto
 [csharp-url]: https://learn.microsoft.com/ru-ru/dotnet/csharp/
+[desert-png]: Desert2.png
+[contibutors-logo]: https://contrib.rocks/image?repo=lienkko/GhostHouse 
