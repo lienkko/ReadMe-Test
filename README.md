@@ -24,23 +24,20 @@
       <a href="#о-проекте">О проекте</a>
       <ul>
         <li><a href="#идея">Идея</a></li>
-        <li><a href="#roadmap">Цель</a></li>
+        <li><a href="#цель">Цель</a></li>
         <li><a href="#используемые-ресурсы">Используемые ресурсы</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#инструкция-по-прохождению">Инструкция по прохождению</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#управление">Управление</a></li>
+        <li><a href="#подсказки">Подсказки</a></li>
+        <li><a href="#читы">Читы</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#задачи">Задачи</a></li>
+    <li><a href="#Участники">Участники</a></li>
   </ol>
 </details>
 
