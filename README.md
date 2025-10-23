@@ -1,5 +1,9 @@
 <a id="readme-top"></a>
 
+[![Commits][commits-shield]][commits-url]
+[![Issues][issues-shield]][issues-url]
+
+
 <br />
 <div align="center">
   <a href="https://github.com/lienkko/GhostHouse">
@@ -148,7 +152,10 @@
 <p align="right">(<a href="#readme-top">К началу</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[commits-shield]: https://img.shields.io/github/commit-activity/t/lienkko/GhostHouse.svg?style=for-the-badge
+[commits-url]: https://github.com/lienkko/GhostHouse/commits
+[issues-shield]: https://img.shields.io/github/issues/lienkko/GhostHouse.svg?style=for-the-badge
+[issues-url]: https://github.com/lienkko/GhostHouse/issues
 [logo-screenshot]: Logo4.png
 [Unity]: https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoSize=auto
 [unity-url]: https://unity.com
