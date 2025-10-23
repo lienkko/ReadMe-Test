@@ -45,7 +45,7 @@
     </li>
     <li><a href="#задачи">Задачи</a></li>
     <li><a href="#участники">Участники</a></li>
-    <li><a href="#ps">PS</a></li>
+    <li><a href="#ps">P.S.</a></li>
   </ol>
 </details>
 
