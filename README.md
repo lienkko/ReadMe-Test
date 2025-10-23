@@ -1,8 +1,11 @@
 <a id="readme-top"></a>
 
+<div align="center">
+  
 [![Commits][commits-shield]][commits-url]
 [![Issues][issues-shield]][issues-url]
 
+</div>
 
 <br />
 <div align="center">
