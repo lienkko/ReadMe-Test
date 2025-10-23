@@ -101,7 +101,7 @@
   </a>
 
 
-### Cheats
+### Читы
 
 1. God mode
    ```sh
