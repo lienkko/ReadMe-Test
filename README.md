@@ -154,6 +154,14 @@
 
 <p align="right">(<a href="#readme-top">К началу</a>)</p>
 
+<!-- POST SCRIPTUM -->
+## PS
+Нам очень важно ваше мнение по поводу проекта. Даже если вы жюри, не скупитесь на хороший совет😊. Мы будем рады любой идее и любой конструктивной критике
+
+<p align="right">(<a href="#readme-top">К началу</a>)</p>
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [commits-shield]: https://img.shields.io/github/commit-activity/t/lienkko/GhostHouse.svg?style=for-the-badge
 [commits-url]: https://github.com/lienkko/GhostHouse/commits
